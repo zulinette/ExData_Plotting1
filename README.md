@@ -1,3 +1,10 @@
+##Running the scripts 
+
+These script assume that the Dataset: Electric power consumption is already loaded and saved on current directory.  
+
+To run the scripts use source("plot<number>.r"). This will load the data to R and will save the plot on current directory. 
+
+
 ## Introduction
 
 This assignment uses data from
